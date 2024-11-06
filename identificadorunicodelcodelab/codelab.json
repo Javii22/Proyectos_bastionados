@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-11-06T19:35:00+01:00",
+  "id": "identificadorunicodelcodelab",
+  "duration": 15,
+  "title": "",
+  "summary": "Resumen del CodeLab",
+  "source": ".\\Proyectos_bastionados\\codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/Javii22/Proyectos_bastionados/issues/1",
+  "url": "identificadorunicodelcodelab"
+}
